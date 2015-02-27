@@ -15,7 +15,7 @@
 
 # Installation
 
-  Please see the file called INSTALL. Not yet available.
+  Please see the file called INSTALL.
 
 # Licensing
 
