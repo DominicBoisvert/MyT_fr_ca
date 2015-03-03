@@ -13,6 +13,9 @@
 
   There is no documentation for this project yet.
 
+  Visit http://manageyourteam.net or http://forum.manageyourteam.net
+  for more information on Manage your Team (MyT) software.
+
 ## Installation
 
   Please see the file called INSTALL.
