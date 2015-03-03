@@ -1,11 +1,11 @@
 # MyT_fr_CA
   Manage your Team i18n and L10n French (Canada).
 
-## What is it ?
+## Qu'est-ce que c'est ?
   Ce projet est un effort de traduction en français du projet Manage
   your Team (MyT).
 
-## The Latest Version
+## Version la plus récente
   La version la plus récente de ce projet peut être trouvée sur la
   page du projet MyT_fr_CA à https://github.com/ronzed/MyT_fr_CA.
 
@@ -18,7 +18,7 @@
 ## Installation
   Lisez le fichier nommé INSTALL pour les informations sur l'installation.
 
-## Licensing
+## License
   Lisez le fichier nommé LICENSE.
 
 ## Contacts
