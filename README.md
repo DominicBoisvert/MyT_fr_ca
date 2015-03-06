@@ -11,14 +11,25 @@
 
 ## Documentation
 
-  There is no documentation for this project yet.
+### config.php
+  Added 'French' to the list of available languages.
+
+  Change to the file /protected/messages/config.php
+
+  Change line 10 :
+    Before : 'languages' => array('en', 'it'),
+    After  : 'languages' => array('en', 'fr', 'it'),
+
+### Other documentation
+  There is no other documentation for this project yet.
 
   Visit http://manageyourteam.net or http://forum.manageyourteam.net
   for more information on Manage your Team (MyT) software.
 
 ## Installation
-
-  Please see the file called INSTALL.
+  1. Backup your files.
+  2. Download and extract the files of this project.
+  3. Upload and replace by following the directory structure.
 
 ## Licensing
 

@@ -10,13 +10,28 @@
   page du projet MyT_fr_CA à https://github.com/ronzed/MyT_fr_CA.
 
 ## Documentation
-  Il n'y a pas de documentation pour ce projet.
+
+### config.php
+  Ajout de la langue 'French' à la liste des langues disponibles.
+
+  Modification au fichier /protected/messages/config.php
+
+  Modification à la ligne 10 :
+    Avant : 'languages' => array('en', 'it'),
+    Après : 'languages' => array('en', 'fr', 'it'),
+
+### Autre documentation
+  Il n'y a pas d'autre documentation pour ce projet.
 
   Visiter http://manageyourteam.net ou http://forum.manageyourteam.net
   pour plus d'information sur le logiciel Manage your Team (MyT).
 
 ## Installation
-  Lisez le fichier nommé INSTALL pour les informations sur l'installation.
+
+  1. Faite un copie de sauvegarde de vos données.
+  2. Télécharger et décompresser les fichiers de ce projet.
+  3. Téléverser et remplacer les fichiers en respectant les chemins
+     d'installation.
 
 ## License
   Lisez le fichier nommé LICENSE.
