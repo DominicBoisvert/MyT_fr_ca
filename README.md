@@ -9,6 +9,9 @@
   Details of the latest version can be found on the Myt_fr_CA
   project page at https://github.com/ronzed/MyT_fr_CA.
 
+  Please note that the present translation is for version 1.3.1 of MyT
+  and that it is incomplet.
+
 ## Documentation
 
 ### config.php
