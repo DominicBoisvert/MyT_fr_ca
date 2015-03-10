@@ -16,6 +16,10 @@
  *
  * NOTE, this file must be saved in UTF-8 encoding.
  */
+
+/**
+   Translation completed, but missing plural forms.
+ */
 return array (
   'Add Attachment' => 'Ajouter une pièce jointe',
   'All Projects' => 'Tous les Projets',
