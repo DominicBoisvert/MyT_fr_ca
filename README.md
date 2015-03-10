@@ -1,4 +1,4 @@
-# MyT_fr_CA
+# MyT_fr_ca
   Manage your Team i18n and L10n French (Canada).
 
 ## What is it ?
@@ -6,8 +6,8 @@
   in French.
 
 ## The Latest Version
-  Details of the latest version can be found on the Myt_fr_CA
-  project page at https://github.com/ronzed/MyT_fr_CA.
+  Details of the latest version can be found on the Myt_fr_ca
+  project page at https://github.com/ronzed/MyT_fr_ca.
 
   Please note that the present translation is for version 1.3.1 of MyT
   and that it is incomplet.
@@ -21,7 +21,7 @@
 
   Change line 10 :
     Before : 'languages' => array('en', 'it'),
-    After  : 'languages' => array('en', 'fr', 'it'),
+    After  : 'languages' => array('en', 'fr_ca', 'it'),
 
 ### Other documentation
   There is no other documentation for this project yet.
@@ -39,4 +39,4 @@
   Please see the file called LICENSE.
 
 ## Contacts
-  Please visit the project page at https://github.com/ronzed/MyT_fr_CA.
+  Please visit the project page at https://github.com/ronzed/MyT_fr_ca.
