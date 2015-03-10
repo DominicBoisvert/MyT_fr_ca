@@ -21,6 +21,7 @@
 
   Change line 10 :
     Before : 'languages' => array('en', 'it'),
+
     After  : 'languages' => array('en', 'fr_ca', 'it'),
 
 ### Other documentation
