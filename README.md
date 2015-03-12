@@ -6,7 +6,7 @@
   in French.
 
 ## The Latest Version
-  Details of the latest version can be found on the Myt_fr_ca
+  Details of the latest version can be found on the MyT_fr_ca
   project page at https://github.com/ronzed/MyT_fr_ca.
 
   Please note that the present translation is for version 1.3.1 of MyT
