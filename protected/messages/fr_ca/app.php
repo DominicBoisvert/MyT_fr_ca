@@ -125,4 +125,9 @@ return array (
   'UserForm.tabs.roles' => 'Rôles',
   'Users' => 'Utilisateurs',
   'Yes' => 'Oui',
+  'pluralRules' => 
+  array (
+    0 => '(n>=0&&n<=2)&&n!=2',
+    1 => 'true',
+  ),
 );

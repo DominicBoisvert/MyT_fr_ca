@@ -45,6 +45,7 @@ return array (
   'Edit Selected' => 'Modifier la sélection',
   'Error' => 'Erreur',
   'Export to' => 'Exporter vers',
+  'Home' => 'Accueil',
   'List' => 'Liste',
   'Login' => 'Connexion',
   'Logout' => 'Déconnexion',
@@ -82,4 +83,9 @@ return array (
   'Users' => 'Utilisateurs',
   'Users Online' => 'Utilisateurs en ligne',
   'View Attachment' => 'Voir les pièces jointes',
+  'pluralRules' => 
+  array (
+    0 => '(n>=0&&n<=2)&&n!=2',
+    1 => 'true',
+  ),
 );

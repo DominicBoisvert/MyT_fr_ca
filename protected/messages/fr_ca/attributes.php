@@ -229,4 +229,9 @@ return array (
   'UserTask.last_upd' => 'Mis à jour le',
   'UserTask.task_id' => 'Tâche',
   'UserTask.user_id' => 'Propriétaire',
+  'pluralRules' => 
+  array (
+    0 => '(n>=0&&n<=2)&&n!=2',
+    1 => 'true',
+  ),
 );

@@ -38,4 +38,9 @@ return array (
   'TaskStatus.group.open' => 'Ouvert',
   'User.female' => 'Femme',
   'User.male' => 'Homme',
+  'pluralRules' => 
+  array (
+    0 => '(n>=0&&n<=2)&&n!=2',
+    1 => 'true',
+  ),
 );
