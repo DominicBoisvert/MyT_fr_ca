@@ -1,4 +1,4 @@
-//Ce projet n'est plus maintenu en date du 2016-09-01.//
+**Ce projet n'est plus maintenu en date du 2016-09-01.**
 
 # MyT_fr_ca
   Manage your Team i18n and L10n French (Canada).
